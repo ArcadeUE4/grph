@@ -1,3 +1,5 @@
+# Если не установлен PyQt, напишите в терминале: pip install PyQt6 numpy
+
 import sys
 import random
 from PyQt6.QtWidgets import (
